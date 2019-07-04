@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        myssr-test
+        myssr
       </h1>
       <h2 class="subtitle">
         My doozie Nuxt.js project
