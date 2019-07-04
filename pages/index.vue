@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        myssr
+        myssr--ceshi
       </h1>
       <h2 class="subtitle">
         My doozie Nuxt.js project
